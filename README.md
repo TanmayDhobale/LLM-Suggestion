@@ -2,6 +2,9 @@
 
 # Language Model Suggestion and Text Generation Tool
 
+
+![Screenshot 2024-06-11 at 12 43 31 AM](https://github.com/TanmayDhobale/LLM-Suggestion/assets/89733575/efb42ad9-15c7-4f80-b47b-368bad7816b4)
+
 This project is designed to suggest an appropriate language model based on user queries and then use the selected model to generate text. It integrates the Hugging Face Transformers library for model suggestions and text generation, and Flask for creating a simple web application.
 
 ## Features
