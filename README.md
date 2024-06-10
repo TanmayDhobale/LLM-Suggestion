@@ -1,4 +1,4 @@
-# LLM-Suggestion
+# Chat with Retard AI
 
 # Language Model Suggestion and Text Generation Tool
 
