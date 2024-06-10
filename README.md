@@ -1,6 +1,7 @@
 # Chat with Retard AI
 
 # Language Model Suggestion and Text Generation Tool
+![Screenshot 2024-06-11 at 1 18 18 AM](https://github.com/TanmayDhobale/Retard-AI/assets/89733575/3080b7a2-48ff-4d58-b90e-8102794e61cf)
 
 
 
